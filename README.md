@@ -1,3 +1,3 @@
-13, js/lua, 100% not mentally stable
+13, js/lua
 
 pfp art stolen from https://twitter.com/04119__snail
