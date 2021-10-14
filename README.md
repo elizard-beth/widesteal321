@@ -6,6 +6,6 @@ Most stuff I create isn't on here. This is simply open source projects.
 ### Open source projects I have here on Github:
 - [rblxModules](https://github.com/widesteal321/rblxModules) **- Luau**
 - [codegolf](https://github.com/widesteal321/codegolf) **- Various languages**
-- [retrieveDiscordMessages](https://github.com/widesteal321/retrieveDiscordMessages) **- TypeScript/JavaScript** → [randomSentenceBot](https://github.com/widesteal321/randomSentenceBot) **- JavaScript**
+- [retrieveDiscordMessages](https://github.com/widesteal321/retrieveDiscordMessages) **- TypeScript/JavaScript →** [randomSentenceBot](https://github.com/widesteal321/randomSentenceBot) **- JavaScript**
 
 (pfp art stolen from https://twitter.com/04119__snail)
