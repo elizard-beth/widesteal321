@@ -6,6 +6,6 @@ Most stuff I create isn't on here. This is simply open source projects.
 ### Open source projects I have here on Github:
 - [rblxModules - Modules for the Roblox platform](https://github.com/widesteal321/rblxModules)
 - [codegolf - My answers for codegolfs](https://github.com/widesteal321/codegolf)
-- [retrieveDiscordMessages](https://github.com/widesteal321/retrieveDiscordMessages)
+- [retrieveDiscordMessages](https://github.com/widesteal321/retrieveDiscordMessages) -> [randomSentenceBot](https://github.com/widesteal321/randomSentenceBot)
 
 (pfp art stolen from https://twitter.com/04119__snail)
